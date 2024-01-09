@@ -1,0 +1,53 @@
+:root{
+    --background: #FFEEC8;
+    --text-color: rgb(37,99,37);
+}
+.header{
+    background-color: var(--background);
+}
+.menu-color{
+    color: var(--text-color);
+    font-weight: 500;
+    font-size: 18px;
+}
+.header img{
+    width: 110px;
+    height: 40px;
+}
+.hero-container{
+    background-color: var(--background);
+}
+.hero-text h1 span, .hero-text p {
+    color: var(--text-color);
+}
+.delivery-process h2, .healthy h2{
+    color: var(--text-color);
+}
+.healthy{
+    background-color: var(--background);
+}
+.slider{
+    background-image: url('../assets/Images/pumpkin.jpg');
+}
+.p1color{
+    background-color: rgb(133, 61, 133);
+}
+.p2color{
+    background-color: rgb(78, 151, 78);
+}
+.p3color{
+    background-color: rgb(108, 88, 51);
+}
+.p4color{
+    background-color: rgba(108, 108, 209, 0.342);
+}
+.p5color{
+    background-color: rgba(234, 0, 255, 0.477);
+}
+.p-Image{
+    width: 300px;
+    height: 200px;
+}
+.footer{
+    background-image: url("../assets/Images/footerbg.png");
+}
